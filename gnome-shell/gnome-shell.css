@@ -16,10 +16,12 @@
 * FOR A PARTICULAR PURPOSE.	See the GNU Lesser General Public License for
 * more details.
 */
+
+
 stage {
-	font-family: Source Sans Pro, Cantarell, Sans-Serif;
-	font-size: 11pt;
-	color: #fff; }
+  font-family: Cantarell, Sans-Serif;
+  font-size: 16pt;
+  color: #5c616c; }
 
 /* WIDGETS */
 
